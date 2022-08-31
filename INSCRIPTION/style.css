@@ -1,0 +1,48 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: ;
+}
+.vert{
+    color: green;
+    font-size: 50px;
+}
+fieldset{
+    margin-top: 90px;
+    width: 800px;
+    background-color: #318CE7;
+    box-shadow: 5px 5px 20px 1px 10px black);
+    border: Opx;
+    padding-left: 10px;
+    border-radius: 10px 10px 10px 10px;
+    color: black;
+    height: 730px;
+}
+td{
+    letter-spacing: 5px;
+    padding-top: 30px;
+    font-size: 20px;
+    margin-left: 190px;
+
+}
+
+h1{
+    font-family: andalus;
+    letter-spacing: 3px;
+    text-align: center;
+    color: white;
+}
+hr{
+    border: 5px solid green;
+    border-radius: 20px;
+    width: 500px;
+}
+ul li{margin margin-left: 20px; color: yellow}
+#submit{
+    margin: 20px 35px;
+    color: #318CE7;
+    background-color: white;
+    width: 50%;
+    font-size: 15px;
+
+}
